@@ -1,7 +1,6 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import LandingPage from './screens/landingPage';
+import LandingPage from './screens/landingScreen';
 
 function App() {
   return (
